@@ -61,6 +61,19 @@ def IFIO_NMD_Plus(mu1,nu1,mu2,nu2):
     # 非隶属度加法
     return pithy_algebraic_S(mu1+nu1,mu2+nu2)-pithy_algebraic_S(mu1,mu2)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 费马模糊 Interaction 运算
 def FFIO_MD_Power(mu,nu,l):
     # 隶属度幂运算
